@@ -6,9 +6,13 @@
 - 💻 I’m currently working on a 'To Do List' app to start **my own coding portfolio**
 - ⚡ Fun fact: I enjoy **skiing** ⛷️ as well as **tinkering with coffee** in an attempt to get the perfect brew ☕
 
-<h3>I have experience with the following tools / languages:</h3>
+<h3>I have experience with the following languages:</h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="32" height="32"/> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="32" height="32"/> <img src="https://open-vsx.org/api/Dart-Code/dart-code/3.22.0/file/dart.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/64809348/119715634-201d6c80-be5c-11eb-9d25-db5341a3d8b9.png" width="32" height="32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" width="32" height="32"/> 
+
+<h3>I'm currently learning the following tools / languages:</h3>
+
+<img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="32" height="32"/> <img src="https://open-vsx.org/api/Dart-Code/dart-code/3.22.0/file/dart.png" width="32" height="32"/> <img src="https://user-images.githubusercontent.com/64809348/119715634-201d6c80-be5c-11eb-9d25-db5341a3d8b9.png" width="32" height="32"/>
 
 <h3>My Socials:</h3>
 
