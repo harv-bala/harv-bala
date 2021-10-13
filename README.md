@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Computer Science student who mostly works with Python, but I'm trying to diversify my skills</h3>
 
 - 🌱 I’m currently learning to develop apps with **Flutter** and **Dart**
-- 💻 I’m currently working on a 'To Do List' app to start **my own coding portfolio**
+- 💻 I’m currently working on a 'Site Connection Checker' CLI project to help build **my coding portfolio**
 - ⚡ Fun fact: I enjoy **skiing** ⛷️ as well as **tinkering with coffee** in an attempt to get the perfect brew ☕
 
 <h3>I have experience with the following languages:</h3>
