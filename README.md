@@ -16,7 +16,7 @@
 
 <h3>My Socials:</h3>
 
-<a href="https://twitter.com/HarvBalaam"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32" height="32"/></a> <a href="https://www.linkedin.com/in/harvey-balaam/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="32" height="32"/></a>
+<a href="https://twitter.com/HarvBalaam"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="32" height="32"/></a> <a href="https://www.linkedin.com/in/harveybalaam/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="32" height="32"/></a>
 
 <h3>Bonus stats about me!</h3>
 
