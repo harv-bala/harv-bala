@@ -20,6 +20,6 @@
 
 <h3>Bonus stats about me!</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harv-bala&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harv-bala&show_icons=true&theme=react&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harv-bala&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harv-bala&layout=compact&theme=react)
